@@ -2,8 +2,8 @@
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		id        = "com.prueba"
-		versionCode="6.0.1"
-		version   = "6">
+		versionCode="6.5.0"
+		version   = "1">
 		<name>
 			Prueba Gsing
 		</name>
@@ -15,7 +15,7 @@
 				
 		<!--gap:plugin name="org.apache.cordova.inappbrowser" source="npm" /-->
 
-    	<preference name="phonegap-version" value="cli-6.3.0" />
+    	<preference name="phonegap-version" value="cli-6.5.0" />
 		<preference name="orientation" value="portrait" />
 		<preference name="fullscreen" value="false" />
 		<preference name="target-device" value="universal" />
